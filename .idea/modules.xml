@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Anomalies/Anomalies.iml" filepath="$PROJECT_DIR$/Anomalies/Anomalies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/dql.iml" filepath="$PROJECT_DIR$/dql.iml" />
     </modules>
   </component>
