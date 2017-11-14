@@ -17,7 +17,11 @@ public class Lotterie {
   public String getBoulesTirees() {
     StringBuilder sb = new StringBuilder();
     for (int i = 0 ; i < NB_BOULES ; i++)
-      sb.append(boules[i] == 1 ? i + " " : "");
+      if (sb.length() == 0)
+        sb.append(boules[i] == 1 ? i + " ": "");
+    if (sb.length() > 0)
+      sb.setLength(sb.length()-1);
+
     return sb.toString();
   }
 
