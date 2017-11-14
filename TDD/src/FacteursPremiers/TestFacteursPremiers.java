@@ -1,3 +1,5 @@
+package FacteursPremiers;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.jupiter.api.Test;
