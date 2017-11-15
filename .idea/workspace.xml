@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99c24782-c03a-46f5-b212-ccee0f09f5fb" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collections/src/ArrayList/Mot.java" afterPath="$PROJECT_DIR$/Collections/src/Mot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java" afterPath="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Collections/ArrayList.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collections/src/Mot.java" afterPath="$PROJECT_DIR$/Collections/src/Mot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collections/src/TestArrayList.java" afterPath="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Mot.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Mot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Collections/src/Mot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#178#179#0" expanded="true" />
                 <element signature="e#202#203#0" expanded="true" />
@@ -31,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestArrayList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestArrayList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="357">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,8 +95,9 @@
         <option value="$PROJECT_DIR$/Collections/src/CArrayList.java" />
         <option value="$PROJECT_DIR$/Collections/src/ArrayList/Mot.java" />
         <option value="$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java" />
-        <option value="$PROJECT_DIR$/Collections/src/Mot.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/TestArrayList.java" />
         <option value="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
+        <option value="$PROJECT_DIR$/Collections/src/Mot.java" />
       </list>
     </option>
   </component>
@@ -515,7 +518,7 @@
       <workItem from="1510170020372" duration="880000" />
       <workItem from="1510170953403" duration="249000" />
       <workItem from="1510665068881" duration="8620000" />
-      <workItem from="1510751614126" duration="2398000" />
+      <workItem from="1510751614126" duration="3599000" />
     </task>
     <servers />
   </component>
@@ -552,7 +555,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12147000" />
+    <option name="totallyTimeSpent" value="13348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -672,6 +675,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="false" />
+            <element signature="e#10148#10149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Anomalies/src/Tableau.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -680,35 +694,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Collections/src/Mot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#178#179#0" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>

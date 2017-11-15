@@ -13,9 +13,19 @@ public class Mot {
   }
 
   public String toString() {
-    return mot + " : " + nbOccurences + " occurences.\n";
+    return mot + " : " + nbOccurences + " occurence(s).";
   }
 
+  @Override
+  public boolean equals(Object o) {
+    Mot mot1 = (Mot) o;
+    return mot1.getClass() == getClass() && mot.equals(mot1.mot);
+  }
 
-
+  @Override
+  public int hashCode() {
+    int result = mot != null ? mot.hashCode() : 0;
+    result = 31 * result + nbOccurences;
+    return result;
+  }
 }

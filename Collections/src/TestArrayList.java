@@ -6,25 +6,28 @@ public class TestArrayList {
   private ArrayList<Mot> mots = new ArrayList<>();
 
   public void ajouterMot(Mot m) {
-    if (mots.contains(m))
-      m.incrementer();
-    else
+    if (!mots.contains(m)) {
       mots.add(m);
+      m.incrementer();
+    } else {
+      for (Mot m2 : mots)
+        if (m.equals(m2))
+          m2.incrementer();
+    }
   }
 
-  public String toString() {
+  public void print() {
     StringBuilder sb = new StringBuilder();
     for (Mot m : mots)
-      sb.append(m.toString());
-    return sb.toString();
+      System.out.println(m.toString());
   }
 
   public static void main(String[] args) {
     TestArrayList tr = new TestArrayList();
-    String[] motsStr = {"toto, tuutu, titii, toto, tata, toto, tuutu, toto"};
+    String[] motsStr = {"toto", "tuutu", "titii", "toto", "tata", "toto", "tuutu", "toto"};
     for (String s : motsStr)
       tr.ajouterMot(new Mot(s));
-    System.out.println(tr.toString());
+    tr.print();
   }
 
 }
