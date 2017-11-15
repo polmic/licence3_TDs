@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99c24782-c03a-46f5-b212-ccee0f09f5fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/ArrayList.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Collections.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/src/ArrayList/Mot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Collections/src/ArrayList/Mot.java" afterPath="$PROJECT_DIR$/Collections/src/Mot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java" afterPath="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,25 +17,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Mot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Collections/src/ArrayList/Mot.java">
+        <entry file="file://$PROJECT_DIR$/Collections/src/Mot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TestArrayList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java">
+        <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="252">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -96,6 +93,8 @@
         <option value="$PROJECT_DIR$/Collections/src/CArrayList.java" />
         <option value="$PROJECT_DIR$/Collections/src/ArrayList/Mot.java" />
         <option value="$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java" />
+        <option value="$PROJECT_DIR$/Collections/src/Mot.java" />
+        <option value="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
       </list>
     </option>
   </component>
@@ -279,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tableau">
+  <component name="RunManager" selected="Application.TestArrayList">
     <configuration name="AlgosTri in TDD" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -388,25 +387,19 @@
       <module name="Collections" />
       <envs />
     </configuration>
-    <configuration name="TestFacteursPremiers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="TDD" />
+      <option name="MAIN_CLASS_NAME" value="TestArrayList" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="FacteursPremiers" />
-      <option name="MAIN_CLASS_NAME" value="FacteursPremiers.TestFacteursPremiers" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="Collections" />
       <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -489,21 +482,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="6">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.AlgosTri in TDD" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestArrayList" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestFacteursPremiers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Tableau" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestArrayList" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.FacteursPremiers in TDD" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.LotterieTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Tableau" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Tableau" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestArrayList" />
         <item index="1" class="java.lang.String" itemvalue="Application.TestArrayList" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LotterieTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FacteursPremiers in TDD" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestFacteursPremiers" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Tableau" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LotterieTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FacteursPremiers in TDD" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +515,7 @@
       <workItem from="1510170020372" duration="880000" />
       <workItem from="1510170953403" duration="249000" />
       <workItem from="1510665068881" duration="8620000" />
-      <workItem from="1510751614126" duration="2079000" />
+      <workItem from="1510751614126" duration="2398000" />
     </task>
     <servers />
   </component>
@@ -560,10 +552,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11828000" />
+    <option name="totallyTimeSpent" value="12147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -578,7 +571,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21190476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21190476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -679,19 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/src/ArrayList/Mot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Anomalies/src/Tableau.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -700,10 +680,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java">
+    <entry file="file://$PROJECT_DIR$/Collections/src/Mot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>

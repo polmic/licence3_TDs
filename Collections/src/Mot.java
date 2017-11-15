@@ -1,5 +1,3 @@
-package ArrayList;
-
 public class Mot {
 
   private String mot;
