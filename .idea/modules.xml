@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Anomalies/Anomalies.iml" filepath="$PROJECT_DIR$/Anomalies/Anomalies.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MedicineClash/MedicineClash.iml" filepath="$PROJECT_DIR$/MedicineClash/MedicineClash.iml" />
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dql.iml" filepath="$PROJECT_DIR$/dql.iml" />
     </modules>
   </component>
 </project>

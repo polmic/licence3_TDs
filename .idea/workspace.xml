@@ -1,12 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99c24782-c03a-46f5-b212-ccee0f09f5fb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Collections/ArrayList.iml" afterPath="" />
+    <list default="true" id="89e51a28-b11a-4fb6-a4da-a917ceea5802" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/sujet/Biology.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/sujet/ClassDiagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/sujet/MedicineClash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/sujet/chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/Cache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/CacheContrat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/MainContrat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/CachePropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/DefautCacheException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/MainPropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/CacheRetour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/MainRetour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CoffreFort/CoffreFort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/CoffreFort/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Concatenation/Chaine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Concatenation/ChaineInvalide.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Concatenation/LongueChaine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Concatenation/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Concatenation/Tableau.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/Cargo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/Conteneur.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/Produit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/CargoPropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ConteneurPleinException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ConteneurPropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/MainPropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ProduitPropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/CargoRetour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/ConteneurRetour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/MainRetour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/ProduitRetour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/CargoValidite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ConteneurValidite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/MainValidite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ProduitValidite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/src/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/src/Toto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/MedicineClash.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/Medicine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/MedicineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/Patient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/PatientTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/Prescription.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/PrescriptionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLButton.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample1.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample2.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample3.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample4.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample5.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample6.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample7.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample8.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLLabel.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/Labels.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/Labels_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MedicineClash/src/javafx/Labels_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TDD/src/AlgosTri/TriBoules/TriBoules/Lotterie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TDD/src/ExercicesTDD/StringCalculator/StringCalculator.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/paul.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TDD/src/AlgosTri/Lotterie.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Anomalies/Tableau.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TDD/AlgosTri/Lotterie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TDD/AlgosTri/LotterieTest.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Anomalies/src/Tableau.java" afterPath="$PROJECT_DIR$/Anomalies/src/Tableau1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TDD/src/AlgosTri/LotterieTest.java" afterPath="$PROJECT_DIR$/TDD/src/AlgosTri/TriBoules/TriBoules/LotterieTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Collections/Mot.class" afterPath="$PROJECT_DIR$/out/production/Collections/Mot.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Collections/TestArrayList.class" afterPath="$PROJECT_DIR$/out/production/Collections/TestArrayList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collections/src/Mot.java" afterPath="$PROJECT_DIR$/Collections/src/Mot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collections/src/TestArrayList.java" afterPath="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TDD/TDD.iml" afterPath="$PROJECT_DIR$/TDD/TDD.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,36 +101,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Mot.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/src/Mot.java">
+      <file leaf-file-name="Patient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/Patient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
+      <file leaf-file-name="PatientTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/PatientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Medicine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/Medicine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MedicineTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/MedicineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Prescription.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/Prescription.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tableau.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Anomalies/src/Tableau.java">
+      <file leaf-file-name="PrescriptionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/PrescriptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="357">
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedicineClash/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -58,17 +188,47 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>�</find>
+      <find>getBoulesTirees</find>
+      <find>getTri</find>
+      <find>Cargo</find>
+      <find>Conteneur</find>
+      <find>requête</find>
+      <find>Retour</find>
+      <find>prescriptionRose</find>
+      <find>prescriptionJaune</find>
+      <find>startsAft</find>
+      <find>p.getPrescriptionEnd()</find>
+      <find>toCompare</find>
+      <find>pinkMedicine</find>
+      <find>String</find>
+      <find>public</find>
     </findStrings>
     <replaceStrings>
-      <replace />
+      <replace>toString</replace>
+      <replace>CargoRetour</replace>
+      <replace>ConteneurRetour</replace>
+      <replace>Validite</replace>
+      <replace>requete</replace>
+      <replace>Propagation</replace>
+      <replace>prescriptionPink</replace>
+      <replace>prescriptionBlue</replace>
+      <replace>prescriptionGreen</replace>
+      <replace>prescriptionGreen@</replace>
+      <replace>date</replace>
+      <replace>prescriptionEnd</replace>
+      <replace>yellowMedicine</replace>
+      <replace>blueMedicine</replace>
+      <replace>Medicine</replace>
+      <replace>private</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -82,27 +242,69 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/toto.java" />
-        <option value="$PROJECT_DIR$/Anomalies/src/ClassementTableau.java" />
-        <option value="$PROJECT_DIR$/Anomalies/src/Main.java" />
-        <option value="$PROJECT_DIR$/Anomalies/src/Tableau.java" />
-        <option value="$PROJECT_DIR$/TDD/src/DecompostionEnFacteursPremiers.java" />
-        <option value="$PROJECT_DIR$/TDD/src/TestFacteursPremiers.java" />
-        <option value="$PROJECT_DIR$/TDD/src/DecompositionEnFacteursPremiers.java" />
-        <option value="$PROJECT_DIR$/TDD/src/FacteursPremiers/DecompositionEnFacteursPremiers.java" />
-        <option value="$PROJECT_DIR$/TDD/src/AlgosTri/LotterieTest.java" />
-        <option value="$PROJECT_DIR$/TDD/src/AlgosTri/Lotterie.java" />
-        <option value="$PROJECT_DIR$/Collections/src/CArrayList.java" />
-        <option value="$PROJECT_DIR$/Collections/src/ArrayList/Mot.java" />
-        <option value="$PROJECT_DIR$/Collections/src/ArrayList/TestArrayList.java" />
-        <option value="$PROJECT_DIR$/Anomalies/src/TestArrayList.java" />
-        <option value="$PROJECT_DIR$/Collections/src/TestArrayList.java" />
-        <option value="$PROJECT_DIR$/Collections/src/Mot.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/Produit.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/Conteneur.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/CargoRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/ConteneurRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/Main.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeRetour/MainRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/MainRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/CargoRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ConteneurRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ProduitRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ConteneurPleinException.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/ConteneurPropagation.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codePropagation/MainPropagation.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/CargoRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ConteneurRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ProduitRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/MainRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/Main.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ConteneurValidite.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/MainValidite.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/Conteneurs/MainCache.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/MainCache.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/Cache.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/Main.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/CacheRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/MainRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/DefautCacheException.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/MainPropagation.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/CachePropagation.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/Cache.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/CacheRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/MainRetour.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/Cache.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/Main.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/CacheContrat.java" />
+        <option value="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/MainContrat.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/Day.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/controller/StarterController.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/controller/ClashControler.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/templates/ClashControler.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/templates/clashLanding.fxml" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/templates/App.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample1.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample2.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/Medicine.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/Prescription.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/Main.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/MedicineTest.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/PrescriptionTest.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/Patient.java" />
+        <option value="$PROJECT_DIR$/MedicineClash/src/PatientTest.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -123,75 +325,31 @@
             <id>Android &gt; Lint &gt; Correctness</id>
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
-          </State>
-          <State>
-            <id>Assignment issuesGroovy</id>
-          </State>
-          <State>
-            <id>Assignment issuesJava</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Control flow issuesJava</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Groovy</id>
+            <id>CSS</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsGroovy</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsGroovy</id>
+            <id>Probable bugsCSS</id>
           </State>
           <State>
             <id>Probable bugsJava</id>
           </State>
           <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsPHP</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-          <State>
-            <id>Threading issuesGroovy</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-          <State>
-            <id>UI Form Problems</id>
+            <id>RELAX NG</id>
           </State>
           <State>
             <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -208,65 +366,64 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dql" type="462c0819:PsiDirectoryNode" />
+              <item name="MedicineClash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dql" type="462c0819:PsiDirectoryNode" />
-              <item name="Anomalies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dql" type="462c0819:PsiDirectoryNode" />
-              <item name="Anomalies" type="462c0819:PsiDirectoryNode" />
+              <item name="MedicineClash" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dql" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dql" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MedicineClash" type="462c0819:PsiDirectoryNode" />
+              <item name="sujet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="AlgosTri" />
       <recent name="" />
+      <recent name="ExercicesTDD.StringCalculator" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MedicineClash/src/javafx" />
+      <recent name="$PROJECT_DIR$/MedicineClash/sujet" />
+      <recent name="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat" />
+      <recent name="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation" />
+      <recent name="$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Anomalies/src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MedicineClash/src/controller" />
+      <recent name="$PROJECT_DIR$/Anomalies/src/Conteneurs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,21 +438,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestArrayList">
-    <configuration name="AlgosTri in TDD" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PatientTest.testGetClashingPrescriptionsAtASpecificDate">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MedicineClash" />
+      <envs />
+    </configuration>
+    <configuration name="MainContrat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="AlgosTri.*" />
+          <option name="PATTERN" value="CacheMemoire.codeContrat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="TDD" />
+      <option name="MAIN_CLASS_NAME" value="CacheMemoire.codeContrat.MainContrat" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="AlgosTri" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Anomalies" />
+      <envs />
+    </configuration>
+    <configuration name="PatientTest.testGetClashingPrescriptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MedicineClash" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatientTest" />
+      <option name="METHOD_NAME" value="testGetClashingPrescriptions" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -307,20 +492,15 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FacteursPremiers in TDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="FacteursPremiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TDD" />
+    <configuration name="PatientTest.testGetClashingPrescriptionsAtASpecificDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MedicineClash" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="FacteursPremiers" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatientTest" />
+      <option name="METHOD_NAME" value="testGetClashingPrescriptionsAtASpecificDate" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -332,18 +512,33 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="LotterieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="AlgosTri.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TDD" />
+    <configuration name="PatientTest.testGetMedicines" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MedicineClash" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="AlgosTri" />
-      <option name="MAIN_CLASS_NAME" value="AlgosTri.LotterieTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatientTest" />
+      <option name="METHOD_NAME" value="testGetMedicines" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PrescriptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MedicineClash" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrescriptionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -356,53 +551,6 @@
       </option>
       <envs />
       <patterns />
-    </configuration>
-    <configuration name="Tableau" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Tableau" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Anomalies" />
-      <envs />
-    </configuration>
-    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ArrayList.TestArrayList" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Collections" />
-      <envs />
-    </configuration>
-    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TestArrayList" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Collections" />
-      <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -486,108 +634,118 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.AlgosTri in TDD" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Tableau" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestArrayList" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FacteursPremiers in TDD" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LotterieTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PrescriptionTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PatientTest.testGetMedicines" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PatientTest.testGetClashingPrescriptions" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PatientTest.testGetClashingPrescriptionsAtASpecificDate" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestArrayList" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestArrayList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Tableau" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LotterieTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FacteursPremiers in TDD" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PatientTest.testGetClashingPrescriptionsAtASpecificDate" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PatientTest.testGetClashingPrescriptions" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PatientTest.testGetMedicines" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PrescriptionTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99c24782-c03a-46f5-b212-ccee0f09f5fb" name="Default" comment="" />
-      <created>1510170017632</created>
+      <changelist id="89e51a28-b11a-4fb6-a4da-a917ceea5802" name="Default" comment="" />
+      <created>1511852705384</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1510170017632</updated>
-      <workItem from="1510170020372" duration="880000" />
-      <workItem from="1510170953403" duration="249000" />
-      <workItem from="1510665068881" duration="8620000" />
-      <workItem from="1510751614126" duration="3599000" />
+      <updated>1511852705384</updated>
+      <workItem from="1511852708252" duration="9605000" />
+      <workItem from="1511866436330" duration="2039000" />
+      <workItem from="1511950030034" duration="3062000" />
+      <workItem from="1512457990316" duration="1627000" />
+      <workItem from="1512459655744" duration="1819000" />
+      <workItem from="1513015606341" duration="660000" />
+      <workItem from="1513072474124" duration="14000" />
+      <workItem from="1513710734277" duration="9481000" />
+      <workItem from="1513793123934" duration="4567000" />
+      <workItem from="1513800674574" duration="1174000" />
+      <workItem from="1513879509802" duration="5059000" />
+      <workItem from="1514222906388" duration="3105000" />
+      <workItem from="1514456022683" duration="61000" />
+      <workItem from="1515487034290" duration="713000" />
+      <workItem from="1515587088827" duration="1296000" />
+      <workItem from="1515610949376" duration="3894000" />
+      <workItem from="1515660416507" duration="908000" />
+      <workItem from="1515760600352" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AlgosTri_in_TDD - 2017.11.14 at 18h 05m 53s.xml">
-      <configuration name="AlgosTri in TDD" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptions - 2018.01.10 at 20h 50m 12s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgosTri_in_TDD - 2017.11.14 at 18h 07m 20s.xml">
-      <configuration name="AlgosTri in TDD" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptions - 2018.01.10 at 20h 51m 19s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 12m 56s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptions - 2018.01.10 at 20h 52m 02s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 13m 40s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptions - 2018.01.10 at 20h 53m 44s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 13m 57s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptionsAtASpecificDate - 2018.01.10 at 20h 54m 05s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptionsAtASpecificDate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 15m 40s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptionsAtASpecificDate - 2018.01.11 at 09h 48m 31s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptionsAtASpecificDate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 16m 04s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptionsAtASpecificDate - 2018.01.11 at 09h 52m 20s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptionsAtASpecificDate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 16m 10s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptionsAtASpecificDate - 2018.01.11 at 09h 52m 29s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptionsAtASpecificDate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 16m 38s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetClashingPrescriptionsAtASpecificDate - 2018.01.11 at 09h 52m 33s.xml">
+      <configuration name="PatientTest.testGetClashingPrescriptionsAtASpecificDate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LotterieTest - 2017.11.14 at 18h 18m 04s.xml">
-      <configuration name="LotterieTest" configurationId="JUnit" />
+    <history-entry file="PatientTest_testGetMedicines - 2018.01.10 at 20h 35m 57s.xml">
+      <configuration name="PatientTest.testGetMedicines" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13348000" />
+    <option name="totallyTimeSpent" value="49097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.252" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21190476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15535714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,120 +755,364 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TDD/src/AlgosTri/Lotterie.java">
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/ClashControler.java" />
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Medicine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dql.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dql.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anomalies/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/toto.java" />
-    <entry file="file://$PROJECT_DIR$/Anomalies/src/ClassementTableau.java" />
-    <entry file="file://$PROJECT_DIR$/Anomalies/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/TDD/src/DecompostionEnFacteursPremiers.java" />
-    <entry file="file://$PROJECT_DIR$/dql.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TDD/src/FacteursPremiers/TestFacteursPremiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TDD/src/FacteursPremiers/DecompositionEnFacteursPremiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TDD/src/AlgosTri/Lotterie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TDD/src/AlgosTri/LotterieTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/src/CArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        <state relative-caret-position="252">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding>
-            <element signature="e#10065#10066#0" expanded="false" />
-            <element signature="e#10148#10149#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anomalies/src/Tableau.java">
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/MedicineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="210">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Prescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/src/TestArrayList.java">
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/PrescriptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/sujet/ClassDiagram.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/App.java" />
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Prescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="64" lean-forward="true" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/PrescriptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/CachePropagation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/DefautCacheException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codePropagation/MainPropagation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/Concatenation/ChaineInvalide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/MainContrat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/MainRetour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeRetour/CacheRetour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/CacheMemoire/codeContrat/CacheContrat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ConteneurValidite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/CargoValidite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/MainValidite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anomalies/src/Conteneurs/codeValidite/ProduitValidite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Day.java" />
+    <entry file="file://$PROJECT_DIR$/MedicineClash/sujet/MedicineClash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/sujet/chart.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/sujet/Biology.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/sujet/ClassDiagram.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/controller/clashController.java" />
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/controller/clashLanding.fxml" />
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/ClashControler.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="304" column="25" lean-forward="false" selection-start-line="304" selection-start-column="25" selection-end-line="304" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/App.java" />
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample4.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="24" column="113" lean-forward="false" selection-start-line="24" selection-start-column="113" selection-end-line="24" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/Labels_de.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLButton.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample1.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/javafx/FxFXMLExample8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Patient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/PatientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Medicine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/MedicineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/Prescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/src/Mot.java">
+    <entry file="file://$PROJECT_DIR$/MedicineClash/src/PrescriptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -767,7 +1169,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dql</last-edited>
+          <last-edited>MedicineClash</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

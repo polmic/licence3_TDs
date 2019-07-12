@@ -1,0 +1,7 @@
+Le design  pattern  Composite  compose  des  objets  dans  les  structures  d'arbres
+et  permet  aux  clients de  traiter  des  objets,  et  des  compositions  uniformément.
+
+Bien  que  l'exemple soit  abstrait  les expressions  arithmétiques  sont des  composites.
+Une  expression  arithmétique  se compose  d'un  opérande, d’un  opérateur  (+ - *  /),  et d’une liste composée au moins d’un autre opérande.
+L'opérande peut être un nombre ou un autre expression arithmétique.
+Ainsi, 2 + 3 et (2 + 3) + (4 * 6) sont toutes deux des expressions arithmétiques valides.
